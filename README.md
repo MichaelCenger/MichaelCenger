@@ -1,4 +1,5 @@
-Professional game developer. Things are brewing ⚗️
+Professional game developer 🎮
+Awesome things are brewing ⚗️
 
 <!---
 MichaelCenger/MichaelCenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
