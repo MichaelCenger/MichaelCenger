@@ -1,5 +1,3 @@
-Professional game developer 🎮
-
 Awesome things are brewing ⚗️
 
 <!---
